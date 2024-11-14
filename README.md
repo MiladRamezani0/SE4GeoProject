@@ -1,5 +1,5 @@
 # SE4GeoProject
-Milad Ramezani Ziarani - 10930504 
+Milad Ramezani Ziarani - 
 Project Description: Air Pollution Monitoring Application
 
 Air pollution is a significant global challenge that requires collaboration from various stakeholders, including individuals, communities, governments, and industries, to mitigate its detrimental impact on the environment and human health. In the face of the ongoing global climate crisis, the availability of accessible and reliable air quality information has become more critical than ever before. Our project aims to develop an application that addresses this need by providing a platform for individuals to access high-quality air pollution data, empowering them to make well-informed decisions in their personal lives and contribute actively to their communities.
